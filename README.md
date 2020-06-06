@@ -1,9 +1,12 @@
 # isucon9-practice
-ISUCON9の練習を兼ねた何か
+
+ISUCON9 の練習を兼ねた何か
 
 # 何をする？
 
 環境構築とか
+
+* [isucon9 の db を docker で建てるメモ](./isucon9-qualify/setup.md)
 
 # リンク集
 
