@@ -9,7 +9,7 @@ Docker で構築する際に文字コードとかで辛い思いしたのでメ�
 ### 日本語環境を持った Dockerfile を作成
 
 ```bash
-cat > ./webapp/sql/Dockerfile_MySQL <<EOF
+cat > ./webapp/sql/Dockerfile-MySQL <<EOF
 # Dockerfile_MySQL
 FROM mysql:5.7
 
