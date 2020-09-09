@@ -1,5 +1,5 @@
 # New Relic始め方
-↓に従えばよい  
+↓に従えばよいはずだが、無視して下の説明に進もう。  
 https://docs.newrelic.co.jp/docs/agents/python-agent/installation/standard-python-agent-install
 
 ## ISUCON9-qualify for Python
